@@ -1,25 +1,11 @@
 # Rice Cooker App
-
-This is a command-line Rice Cooker application implemented in four different languages (Typescript, Ruby, Dart, and Javascript). The program allows users to perform various Rice Cooker-related actions, including adding rice, cooking rice, keeping warm, and removing rice.
-
-## Features
-
-1. **Adding rice:** Users can add adding rice.
-
-2. **Cooking rice:** Users can cooking rice.
-
-3. **Keeping warm:** Users can keep the rice warm.
-
-4. **Removing rice:** Users can remove rice after cooking or warming.
-
-5. **Exit:** Users can exit the application.
-
 ## How to Use
 
-1. Change branch for the language you want to use.
-2. Run the program according to the command corresponding to each language, which you can find by reading the readme of the current branch.
-   
-3. Follow the on-screen prompts to perform rice cooker actions:
+1. Switch to the language directory using the command `cd .\RUBY\`
+   <br>
+2. To work with Ruby, make sure Ruby is installed on your system. Follow the guidelines to install an appropriate linter for Ruby.
+   <br>
+3. Follow the on-screen prompts to perform wallet actions:
    - Enter `1` to add rice.
    - Enter `2` to cook rice.
    - Enter `3` to keep warm.
