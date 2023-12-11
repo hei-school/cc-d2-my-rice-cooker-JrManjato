@@ -14,7 +14,7 @@ This is a command-line Rice Cooker application implemented in four different lan
 
 5. **Exit:** Users can exit the application.
 
-## How to Use
+## How to Use (The Typescript project is the only one with a well-defined Readme; updates for Readmes in other languages may be addressed at a later time.)
 
 1. Change branch for the language you want to use.
 2. Run the program according to the command corresponding to each language, which you can find by reading the readme of the current branch.
