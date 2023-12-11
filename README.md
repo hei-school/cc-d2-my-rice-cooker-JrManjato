@@ -1,1 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PHq8Kfj_)
+# Rice Cooker App
+
+## How to Use
+
+1. Switch to the language directory using the command `cd .\TYPESCRIPT\`
+   <br>
+2. Make sure you have installed node and Run the program using the `npm` command:
+
+    ```bash
+    npm install
+    ```
+3. Compile using `tsc` command:
+
+    ```bash
+    tsc
+    
+    ```
+
+4. Move into dist directory `cd .\dist\` and run 
+
+    ```bash
+    node main.js
+    
+    ```
+5. Follow the on-screen prompts to perform wallet actions:
+   - Enter `1` to add rice.
+   - Enter `2` to cook rice.
+   - Enter `3` to keep warm.
+   - Enter `4` to remove rice.
+   - Enter `5` to exit the application.
